@@ -1,0 +1,66 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.resume {
+    max-width: 900px;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.name-title {
+    font-size: 38px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.contact, .location {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #34495e;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+ul {
+    list-style: square;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+section p, section ul {
+    margin-left: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+    color: #777;
+}
